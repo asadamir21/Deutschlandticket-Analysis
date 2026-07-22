@@ -21,9 +21,9 @@ Every formula and assumption is documented inline in the notebook, so it's strai
 
 | File | Description |
 |---|---|
-| `dtt_commute_analysis.ipynb` | Main analysis notebook — run top to bottom |
-| `synthetic_employee_commute_dataset.csv` | Generated synthetic dataset (output of the notebook) |
-| `commute_map.html` | Optional interactive map of employees, stations, and the workplace |
+| `notebooks/Deutschlandticket_Analysis.ipynb` | Main analysis notebook — run top to bottom |
+| `data/synthetic_employee_commute_dataset.csv` | Generated synthetic dataset (output of the notebook) |
+| `figures/commute_map.html` | Optional interactive map of employees, stations, and the workplace |
 | `README.md` | This file |
 
 ## Method summary
@@ -52,7 +52,7 @@ Every formula and assumption is documented inline in the notebook, so it's strai
 
 ```bash
 pip install numpy pandas matplotlib folium
-jupyter notebook dtt_commute_analysis.ipynb
+jupyter notebook Deutschlandticket_Analysis.ipynb
 ```
 
 Run all cells top to bottom. This regenerates the synthetic dataset, all charts, the summary output, the CSV, and the interactive map.
