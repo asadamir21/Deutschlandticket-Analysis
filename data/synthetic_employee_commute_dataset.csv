@@ -1,0 +1,401 @@
+employee_id,home_area,home_lat,home_lon,has_car,environmental_attitude,distance_to_workplace_km,nearest_station,station_mode,dist_to_station_km,connection_quality,walk_to_station_min,wait_min,ride_min,door_to_door_min,commute_band,adoption_score,adoption_tier
+EMP0001,Quickborn,53.74049636606017,9.909642123781042,False,61.0,10.8,Quickborn (AKN),Rail,0.49,Good,6.5,5.7,25.5,47.7,46–60 min,58.9,Medium
+EMP0002,Eppendorf/Winterhude,53.598241878428134,9.995970860152044,False,36.0,10.4,Kellinghusenstraße,Rail,1.42,Medium,18.9,8.0,28.2,65.1,>60 min,39.8,Low
+EMP0003,Henstedt-Ulzburg / Kaltenkirchen,53.812762741793286,9.954175728026117,True,48.0,15.3,Kaltenkirchen (AKN),Rail,2.91,Poor,26.7,8.9,42.8,88.4,>60 min,22.2,Low
+EMP0004,Hamburg-Innenstadt,53.536972341161075,9.992189481223932,False,18.0,17.0,Jungfernstieg,Rail,1.76,Medium,23.5,0.3,36.7,70.5,>60 min,36.2,Low
+EMP0005,Norderstedt,53.67439896563367,10.003639017433475,True,3.0,3.2,Ochsenzoll,Rail,1.11,Medium,14.8,7.7,8.6,41.1,31–45 min,29.7,Low
+EMP0006,Pinneberg,53.6631435358539,9.783596844610768,True,69.0,17.5,Pinneberg,Rail,0.83,Good,11.1,5.2,40.2,66.5,>60 min,44.5,Medium
+EMP0007,Quickborn,53.73138223966362,9.914312218145476,False,30.0,10.1,Quickborn (AKN),Rail,0.62,Good,8.3,6.3,25.5,50.1,46–60 min,47.5,Medium
+EMP0008,Quickborn,53.74069385771717,9.913112646599332,True,41.0,10.7,Quickborn (AKN),Rail,0.57,Good,7.6,1.5,25.5,44.6,31–45 min,44.9,Medium
+EMP0009,Norderstedt,53.70451953626221,9.99323292488632,True,22.0,4.1,Norderstedt Mitte,Rail,1.41,Medium,18.8,11.7,6.4,46.9,46–60 min,32.4,Low
+EMP0010,Eppendorf/Winterhude,53.59438241432059,9.996773153625048,False,22.0,10.8,Kellinghusenstraße,Rail,1.1,Medium,14.7,14.1,28.2,67.0,>60 min,34.7,Low
+EMP0011,Alsterdorf/Ohlsdorf,53.62260133085376,10.021957013859,True,47.0,7.3,Ohlsdorf,Rail,1.12,Medium,14.9,0.3,15.5,40.7,31–45 min,46.5,Medium
+EMP0012,Ahrensburg,53.67649211374115,10.248392237388963,False,35.0,13.3,Ahrensburg,Rail,0.74,Good,9.9,9.0,30.3,59.2,46–60 min,45.7,Medium
+EMP0013,Hamburg-Innenstadt,53.556400647056016,10.003958368428853,True,58.0,14.7,Jungfernstieg,Rail,0.82,Good,10.9,11.5,36.7,69.1,>60 min,37.2,Low
+EMP0014,Henstedt-Ulzburg / Kaltenkirchen,53.8029532673713,9.965389132069015,True,59.0,14.0,Kaltenkirchen (AKN),Rail,3.97,Poor,26.7,4.3,42.8,83.8,>60 min,27.4,Low
+EMP0015,Eppendorf/Winterhude,53.59120388586169,9.989549546720308,True,56.0,11.3,Kellinghusenstraße,Rail,0.53,Good,7.1,11.8,28.2,57.1,46–60 min,41.7,Medium
+EMP0016,Langenhorn,53.662767760966574,9.97056301172642,True,55.0,5.7,Langenhorn Nord,Rail,0.75,Good,10.0,9.5,12.0,41.5,31–45 min,47.1,Medium
+EMP0017,Eimsbüttel,53.58680528475418,9.967046049047504,True,82.0,12.3,Kellinghusenstraße,Rail,1.21,Medium,16.1,13.9,28.2,68.2,>60 min,43.1,Medium
+EMP0018,Norderstedt,53.69356258827775,10.014892800343652,True,29.0,2.3,Norderstedt Mitte,Rail,0.5,Good,6.7,14.7,6.4,37.8,31–45 min,39.0,Low
+EMP0019,Henstedt-Ulzburg / Kaltenkirchen,53.815211672557325,9.977873311116051,False,49.0,15.0,Kaltenkirchen (AKN),Rail,2.82,Poor,26.7,0.6,42.8,80.1,>60 min,37.6,Low
+EMP0020,Eimsbüttel,53.57594161208085,9.974599796503421,True,73.0,13.2,Kellinghusenstraße,Rail,1.44,Medium,19.2,6.7,28.2,64.1,>60 min,43.8,Medium
+EMP0021,Quickborn,53.73492457832672,9.907877713434688,True,75.0,10.6,Quickborn (AKN),Rail,0.16,Good,2.1,8.2,25.5,45.8,46–60 min,54.2,Medium
+EMP0022,Alsterdorf/Ohlsdorf,53.623295190420244,9.999557941211393,True,22.0,7.7,Ohlsdorf,Rail,1.34,Medium,17.9,2.2,15.5,45.6,46–60 min,36.1,Low
+EMP0023,Pinneberg,53.642669396289456,9.79290893402989,True,44.0,17.4,Pinneberg,Rail,2.23,Poor,26.7,5.0,40.2,81.9,>60 min,26.9,Low
+EMP0024,Ahrensburg,53.66123527671925,10.239972311948105,True,77.0,13.0,Ahrensburg,Rail,1.45,Medium,19.3,14.8,30.3,74.4,>60 min,38.1,Low
+EMP0025,Quickborn,53.721278146025575,9.907179167546106,False,60.0,10.0,Quickborn (AKN),Rail,1.65,Medium,22.0,0.2,25.5,57.7,46–60 min,51.5,Medium
+EMP0026,Langenhorn,53.637463838801516,9.975621058919224,True,54.0,7.2,Ohlsdorf,Rail,2.63,Poor,26.7,6.8,15.5,59.0,46–60 min,36.6,Low
+EMP0027,Eppendorf/Winterhude,53.58621735559845,10.000528848149699,False,46.0,11.6,Kellinghusenstraße,Rail,1.01,Medium,13.5,12.6,28.2,64.3,>60 min,44.3,Medium
+EMP0028,Norderstedt,53.704994338997274,10.006060422585895,False,42.0,3.4,Norderstedt Mitte,Rail,0.9,Good,12.0,4.9,6.4,33.3,31–45 min,56.7,Medium
+EMP0029,Norderstedt,53.694651159336175,10.004819339162747,True,56.0,2.9,Norderstedt Mitte,Rail,0.52,Good,6.9,7.2,6.4,30.5,31–45 min,52.3,Medium
+EMP0030,Hamburg-Innenstadt,53.55307790081942,9.996814528343036,True,45.0,15.2,Jungfernstieg,Rail,0.25,Good,3.3,14.7,36.7,64.7,>60 min,36.6,Low
+EMP0031,Quickborn,53.74699217496711,9.905180074198709,True,49.0,11.5,Quickborn (AKN),Rail,1.24,Medium,16.5,7.1,25.5,59.1,46–60 min,38.5,Low
+EMP0032,Pinneberg,53.67587686132268,9.798541043889783,False,52.0,16.4,Pinneberg,Rail,1.49,Medium,19.9,2.0,40.2,72.1,>60 min,44.9,Medium
+EMP0033,Alsterdorf/Ohlsdorf,53.61430862065274,10.014732040228521,True,36.0,8.3,Ohlsdorf,Rail,1.92,Medium,25.6,0.8,15.5,51.9,46–60 min,36.7,Low
+EMP0034,Alsterdorf/Ohlsdorf,53.628535858895695,10.000605709989085,False,61.0,7.1,Ohlsdorf,Rail,0.97,Good,12.9,14.2,15.5,52.6,46–60 min,52.8,Medium
+EMP0035,Eppendorf/Winterhude,53.593921266584346,9.993187588761344,False,100.0,10.9,Kellinghusenstraße,Rail,0.91,Good,12.1,4.0,28.2,54.3,46–60 min,66.4,Medium
+EMP0036,Langenhorn,53.65242601776173,9.995777769399165,False,14.0,5.1,Langenhorn Nord,Rail,1.5,Medium,20.0,7.6,12.0,49.6,46–60 min,39.0,Low
+EMP0037,Norderstedt,53.69155599647801,9.999479204872658,False,56.0,3.2,Norderstedt Mitte,Rail,1.01,Medium,13.5,1.4,6.4,31.3,31–45 min,62.0,Medium
+EMP0038,Eppendorf/Winterhude,53.57819463487435,9.976833455510294,False,35.0,12.9,Kellinghusenstraße,Rail,1.15,Medium,15.3,6.4,28.2,59.9,46–60 min,44.9,Medium
+EMP0039,Langenhorn,53.651918661462666,9.962781548467575,True,62.0,6.7,Langenhorn Nord,Rail,1.77,Medium,23.6,14.0,12.0,59.6,46–60 min,38.2,Low
+EMP0040,Hamburg-Innenstadt,53.54751983311925,9.993991099465767,True,51.0,15.8,Jungfernstieg,Rail,0.59,Good,7.9,7.5,36.7,62.1,>60 min,40.6,Medium
+EMP0041,Eppendorf/Winterhude,53.60103585019379,9.998309172780326,True,65.0,10.0,Kellinghusenstraße,Rail,1.76,Medium,23.5,14.6,28.2,76.3,>60 min,30.9,Low
+EMP0042,Henstedt-Ulzburg / Kaltenkirchen,53.82720769831166,9.963823891445749,False,74.0,16.6,Kaltenkirchen (AKN),Rail,1.28,Medium,17.1,3.9,42.8,73.8,>60 min,50.5,Medium
+EMP0043,Hamburg-Innenstadt,53.53727818484623,10.005841898289285,False,54.0,16.8,Jungfernstieg,Rail,1.92,Medium,25.6,7.6,36.7,79.9,>60 min,40.7,Medium
+EMP0044,Langenhorn,53.6647282746826,9.954671655668971,False,73.0,6.5,Langenhorn Nord,Rail,1.8,Medium,24.0,12.9,12.0,58.9,46–60 min,51.8,Medium
+EMP0045,Henstedt-Ulzburg / Kaltenkirchen,53.799594560608426,9.968959338744309,True,3.0,13.6,Kaltenkirchen (AKN),Rail,4.37,Poor,26.7,6.7,42.8,86.2,>60 min,8.8,Low
+EMP0046,Quickborn,53.74084697088463,9.924814382018036,False,82.0,10.1,Quickborn (AKN),Rail,1.15,Medium,15.3,4.2,25.5,55.0,46–60 min,59.9,Medium
+EMP0047,Alsterdorf/Ohlsdorf,53.613689133493125,10.000722192351084,True,58.0,8.7,Ohlsdorf,Rail,2.18,Poor,26.7,12.8,15.5,65.0,>60 min,35.1,Low
+EMP0048,Langenhorn,53.64249094174153,9.977601934882102,True,72.0,6.7,Langenhorn Nord,Rail,2.31,Poor,26.7,5.8,12.0,54.5,46–60 min,44.5,Medium
+EMP0049,Hamburg-Innenstadt,53.560382969915686,9.986171080827715,False,26.0,14.6,Jungfernstieg,Rail,0.96,Good,12.8,8.0,36.7,67.5,>60 min,38.6,Low
+EMP0050,Norderstedt,53.69144999287191,10.002156539539225,True,33.0,3.0,Norderstedt Mitte,Rail,0.89,Good,11.9,14.6,6.4,42.9,31–45 min,37.4,Low
+EMP0051,Langenhorn,53.65546099761627,9.97813737994977,True,53.0,5.7,Langenhorn Nord,Rail,0.88,Good,11.7,2.8,12.0,36.5,31–45 min,49.7,Medium
+EMP0052,Norderstedt,53.6868024758871,10.025374852836846,False,50.0,1.4,Norderstedt Mitte,Rail,1.52,Medium,20.3,4.5,6.4,41.2,31–45 min,52.3,Medium
+EMP0053,Quickborn,53.729557167233125,9.927573866754875,True,56.0,9.2,Quickborn (AKN),Rail,1.41,Medium,18.8,0.5,25.5,54.8,46–60 min,41.5,Medium
+EMP0054,Hamburg-Innenstadt,53.55537890440695,9.9903406077496,True,72.0,15.1,Jungfernstieg,Rail,0.34,Good,4.5,5.9,36.7,57.1,46–60 min,49.6,Medium
+EMP0055,Hamburg-Innenstadt,53.54920755659064,10.012750602140645,True,15.0,15.4,Jungfernstieg,Rail,1.36,Medium,18.1,3.0,36.7,67.8,>60 min,25.8,Low
+EMP0056,Quickborn,53.73938662002283,9.909555764769847,True,69.0,10.8,Quickborn (AKN),Rail,0.37,Good,4.9,10.2,25.5,50.6,46–60 min,49.4,Medium
+EMP0057,Eppendorf/Winterhude,53.59661921853929,10.01553691026701,False,50.0,10.2,Kellinghusenstraße,Rail,2.25,Poor,26.7,2.7,28.2,67.6,>60 min,42.2,Medium
+EMP0058,Eimsbüttel,53.59180661655528,9.962667013503465,False,46.0,11.9,Kellinghusenstraße,Rail,1.58,Medium,21.1,10.1,28.2,69.4,>60 min,41.2,Medium
+EMP0059,Norderstedt,53.69407213849136,10.012410578260463,True,21.0,2.4,Norderstedt Mitte,Rail,0.39,Good,5.2,4.0,6.4,25.6,≤30 min,44.6,Medium
+EMP0060,Norderstedt,53.68273142183154,10.01475474472643,True,60.0,2.2,Ochsenzoll,Rail,1.43,Medium,19.1,5.3,8.6,43.0,31–45 min,44.8,Medium
+EMP0061,Hamburg-Innenstadt,53.561772224165715,10.025488536793675,True,2.0,13.9,Jungfernstieg,Rail,2.36,Poor,26.7,5.2,36.7,78.6,>60 min,13.6,Low
+EMP0062,Eppendorf/Winterhude,53.58968511827903,10.006512855748447,False,63.0,11.1,Kellinghusenstraße,Rail,1.43,Medium,19.1,10.8,28.2,68.1,>60 min,46.5,Medium
+EMP0063,Eimsbüttel,53.58974592444577,9.956527354700485,False,20.0,12.3,Kellinghusenstraße,Rail,1.92,Medium,25.6,7.0,28.2,70.8,>60 min,32.8,Low
+EMP0064,Quickborn,53.739933771131824,9.918889978702758,False,51.0,10.3,Quickborn (AKN),Rail,0.77,Good,10.3,5.4,25.5,51.2,46–60 min,53.3,Medium
+EMP0065,Eimsbüttel,53.57728862469797,9.959981674629157,True,48.0,13.4,Kellinghusenstraße,Rail,2.0,Medium,26.7,12.8,28.2,77.7,>60 min,27.6,Low
+EMP0066,Eimsbüttel,53.58208775894047,9.958702498170988,True,73.0,13.0,Kellinghusenstraße,Rail,1.85,Medium,24.7,8.6,28.2,71.5,>60 min,38.8,Low
+EMP0067,Eimsbüttel,53.598110125601266,9.97268601359892,True,46.0,11.0,Kellinghusenstraße,Rail,1.47,Medium,19.6,3.2,28.2,61.0,>60 min,36.0,Low
+EMP0068,Langenhorn,53.681569805290536,9.981710855877711,False,36.0,4.3,Ochsenzoll,Rail,0.75,Good,10.0,13.5,8.6,42.1,31–45 min,49.9,Medium
+EMP0069,Norderstedt,53.698193811351324,10.013885759145118,True,40.0,2.5,Norderstedt Mitte,Rail,0.2,Good,2.7,5.1,6.4,24.2,≤30 min,51.3,Medium
+EMP0070,Eppendorf/Winterhude,53.594601905933175,9.998139852218653,False,75.0,10.7,Kellinghusenstraße,Rail,1.18,Medium,15.7,0.6,28.2,54.5,46–60 min,58.6,Medium
+EMP0071,Langenhorn,53.67156240157467,9.984765831266055,False,61.0,4.4,Langenhorn Nord,Rail,0.96,Good,12.8,7.4,12.0,42.2,31–45 min,57.4,Medium
+EMP0072,Alsterdorf/Ohlsdorf,53.60654338967233,10.016249658974361,True,42.0,9.1,Ohlsdorf,Rail,2.79,Poor,26.7,1.9,15.5,54.1,46–60 min,37.7,Low
+EMP0073,Henstedt-Ulzburg / Kaltenkirchen,53.81333070372619,9.945630330672946,True,45.0,15.6,Kaltenkirchen (AKN),Rail,2.99,Poor,26.7,3.6,42.8,83.1,>60 min,25.0,Low
+EMP0074,Langenhorn,53.660541371520466,9.988065726686097,True,19.0,4.8,Langenhorn Nord,Rail,0.5,Good,6.7,11.2,12.0,39.9,31–45 min,36.6,Low
+EMP0075,Norderstedt,53.70063908211457,10.001279805801698,True,58.0,3.4,Norderstedt Mitte,Rail,0.73,Good,9.7,2.0,6.4,28.1,≤30 min,54.9,Medium
+EMP0076,Langenhorn,53.65246631194051,9.966977008644406,True,15.0,6.5,Langenhorn Nord,Rail,1.54,Medium,20.5,12.1,12.0,54.6,46–60 min,27.2,Low
+EMP0077,Langenhorn,53.64490432506691,9.980815887561414,False,65.0,6.4,Langenhorn Nord,Rail,2.02,Poor,26.7,14.1,12.0,62.8,>60 min,46.8,Medium
+EMP0078,Hamburg-Innenstadt,53.530370165640086,9.994539810033144,True,53.0,17.7,Jungfernstieg,Rail,2.5,Poor,26.7,9.1,36.7,82.5,>60 min,29.4,Low
+EMP0079,Eimsbüttel,53.567426158870106,9.956664938354276,True,98.0,14.5,Kellinghusenstraße,Rail,2.9,Poor,26.7,10.7,28.2,75.6,>60 min,44.9,Medium
+EMP0080,Quickborn,53.73151324715061,9.91751031857668,False,28.0,9.9,Quickborn (AKN),Rail,0.75,Good,10.0,10.7,25.5,56.2,46–60 min,42.8,Medium
+EMP0081,Hamburg-Innenstadt,53.54816808413351,9.980278248336292,False,48.0,16.0,Jungfernstieg,Rail,0.99,Good,13.2,14.9,36.7,74.8,>60 min,41.6,Medium
+EMP0082,Alsterdorf/Ohlsdorf,53.6343723116243,10.007930562512275,True,86.0,6.3,Ohlsdorf,Rail,0.52,Good,6.9,5.1,15.5,37.5,31–45 min,59.5,Medium
+EMP0083,Henstedt-Ulzburg / Kaltenkirchen,53.821059933699075,9.95915125865067,False,74.0,16.0,Kaltenkirchen (AKN),Rail,1.96,Medium,26.1,2.4,42.8,81.3,>60 min,45.2,Medium
+EMP0084,Norderstedt,53.68787908883658,10.010634127296607,False,36.0,2.4,Norderstedt Mitte,Rail,1.07,Medium,14.3,7.8,6.4,38.5,31–45 min,50.7,Medium
+EMP0085,Norderstedt,53.70097708452451,10.013888642846473,False,54.0,2.7,Norderstedt Mitte,Rail,0.43,Good,5.7,8.0,6.4,30.1,31–45 min,61.8,Medium
+EMP0086,Norderstedt,53.69342921763649,10.001021070503766,False,50.0,3.1,Norderstedt Mitte,Rail,0.8,Good,10.7,2.7,6.4,29.8,≤30 min,61.1,Medium
+EMP0087,Hamburg-Innenstadt,53.5482563616196,10.000942826774562,True,56.0,15.7,Jungfernstieg,Rail,0.72,Good,9.6,9.2,36.7,65.5,>60 min,39.8,Low
+EMP0088,Eppendorf/Winterhude,53.594853256494154,9.998630023683347,False,36.0,10.7,Kellinghusenstraße,Rail,1.22,Medium,16.3,0.2,28.2,54.7,46–60 min,46.8,Medium
+EMP0089,Norderstedt,53.70369171116975,9.992180537466881,True,48.0,4.1,Norderstedt Mitte,Rail,1.42,Medium,18.9,13.9,6.4,49.2,46–60 min,38.7,Low
+EMP0090,Eppendorf/Winterhude,53.58960741516116,9.978414085596029,False,18.0,11.7,Kellinghusenstraße,Rail,0.53,Good,7.1,4.0,28.2,49.3,46–60 min,45.7,Medium
+EMP0091,Norderstedt,53.70813851532734,10.010976807070708,False,53.0,3.4,Norderstedt Mitte,Rail,1.18,Medium,15.7,0.6,6.4,32.7,31–45 min,60.4,Medium
+EMP0092,Hamburg-Innenstadt,53.539680617738576,9.991490326822136,True,59.0,16.7,Jungfernstieg,Rail,1.46,Medium,19.5,1.6,36.7,67.8,>60 min,40.0,Low
+EMP0093,Eppendorf/Winterhude,53.59306339062363,9.996965798864252,True,45.0,10.9,Kellinghusenstraße,Rail,1.01,Medium,13.5,3.6,28.2,55.3,46–60 min,39.3,Low
+EMP0094,Alsterdorf/Ohlsdorf,53.64097673726596,10.011720175434698,False,18.0,5.6,Ohlsdorf,Rail,1.06,Medium,14.1,4.1,15.5,43.7,31–45 min,44.5,Medium
+EMP0095,Langenhorn,53.66303079742625,9.983655598395103,False,70.0,4.9,Langenhorn Nord,Rail,0.12,Good,1.6,0.5,12.0,24.1,≤30 min,72.3,High
+EMP0096,Eimsbüttel,53.592932145066065,9.973076496098482,True,57.0,11.5,Kellinghusenstraße,Rail,1.03,Medium,13.7,4.2,28.2,56.1,46–60 min,42.8,Medium
+EMP0097,Alsterdorf/Ohlsdorf,53.61591520178173,10.000888950990825,False,35.0,8.4,Ohlsdorf,Rail,1.96,Medium,26.1,2.9,15.5,54.5,46–60 min,44.8,Medium
+EMP0098,Norderstedt,53.703307770953295,9.999380284070993,False,44.0,3.6,Norderstedt Mitte,Rail,1.01,Medium,13.5,5.7,6.4,35.6,31–45 min,55.9,Medium
+EMP0099,Norderstedt,53.69693216805607,10.000166761421127,True,20.0,3.3,Norderstedt Mitte,Rail,0.72,Good,9.6,5.8,6.4,31.8,31–45 min,41.0,Medium
+EMP0100,Pinneberg,53.66089592418835,9.798989166671687,True,29.0,16.6,Pinneberg,Rail,0.27,Good,3.6,5.1,40.2,58.9,46–60 min,36.7,Low
+EMP0101,Ahrensburg,53.66640517603275,10.250249473786464,True,39.0,13.6,Ahrensburg,Rail,1.19,Medium,15.9,4.9,30.3,61.1,>60 min,35.9,Low
+EMP0102,Hamburg-Innenstadt,53.555403013589576,9.989386605617605,False,75.0,15.1,Jungfernstieg,Rail,0.38,Good,5.1,1.3,36.7,53.1,46–60 min,63.1,Medium
+EMP0103,Langenhorn,53.65228462810814,9.956383001558404,True,37.0,7.1,Langenhorn Nord,Rail,2.07,Poor,26.7,0.4,12.0,49.1,46–60 min,37.9,Low
+EMP0104,Pinneberg,53.66925585236313,9.779060071373895,False,63.0,17.7,Pinneberg,Rail,1.34,Medium,17.9,3.0,40.2,71.1,>60 min,49.8,Medium
+EMP0105,Quickborn,53.74695287004446,9.90086963277204,True,39.0,11.7,Quickborn (AKN),Rail,1.33,Medium,17.7,11.3,25.5,64.5,>60 min,32.1,Low
+EMP0106,Hamburg-Innenstadt,53.55476531407237,9.988122711125047,False,55.0,15.2,Jungfernstieg,Rail,0.39,Good,5.2,14.9,36.7,66.8,>60 min,48.2,Medium
+EMP0107,Eppendorf/Winterhude,53.59013751266445,9.993916113727453,True,47.0,11.3,Kellinghusenstraße,Rail,0.66,Good,8.8,13.9,28.2,60.9,>60 min,36.6,Low
+EMP0108,Langenhorn,53.66533965579309,9.981785811229809,True,67.0,4.9,Langenhorn Nord,Rail,0.25,Good,3.3,7.6,12.0,32.9,31–45 min,55.6,Medium
+EMP0109,Norderstedt,53.69441326944453,10.007982536691776,False,39.0,2.7,Norderstedt Mitte,Rail,0.4,Good,5.3,8.0,6.4,29.7,≤30 min,57.6,Medium
+EMP0110,Ahrensburg,53.68355547125465,10.248293396105433,True,19.0,13.3,Ahrensburg,Rail,1.25,Medium,16.7,4.7,30.3,61.7,>60 min,29.2,Low
+EMP0111,Eppendorf/Winterhude,53.57468593915785,9.991239826943186,False,22.0,13.0,Kellinghusenstraße,Rail,1.45,Medium,19.3,11.6,28.2,69.1,>60 min,35.1,Low
+EMP0112,Langenhorn,53.65744392631881,9.972776820405246,False,39.0,5.9,Langenhorn Nord,Rail,0.87,Good,11.6,11.5,12.0,45.1,46–60 min,50.1,Medium
+EMP0113,Langenhorn,53.64089188004876,9.986188755385205,False,25.0,6.5,Ohlsdorf,Rail,2.12,Poor,26.7,12.7,15.5,64.9,>60 min,33.5,Low
+EMP0114,Eimsbüttel,53.56364939169773,9.948243579300739,False,58.0,15.1,Jungfernstieg,Rail,3.2,Poor,26.7,13.4,36.7,86.8,>60 min,36.1,Low
+EMP0115,Norderstedt,53.71113862229814,10.014996917053201,True,41.0,3.5,Norderstedt Mitte,Rail,1.54,Medium,20.5,6.5,6.4,43.4,31–45 min,39.9,Low
+EMP0116,Henstedt-Ulzburg / Kaltenkirchen,53.81895184981972,9.966025531837262,False,97.0,15.7,Kaltenkirchen (AKN),Rail,2.21,Poor,26.7,11.5,42.8,91.0,>60 min,45.5,Medium
+EMP0117,Quickborn,53.72890519766715,9.907725575100818,False,15.0,10.3,Quickborn (AKN),Rail,0.81,Good,10.8,12.1,25.5,58.4,46–60 min,37.8,Low
+EMP0118,Hamburg-Innenstadt,53.53607496543959,10.009582761071494,True,54.0,16.9,Jungfernstieg,Rail,2.16,Poor,26.7,4.6,36.7,78.0,>60 min,32.0,Low
+EMP0119,Alsterdorf/Ohlsdorf,53.585354711621584,10.005777925547052,True,27.0,11.6,Kellinghusenstraße,Rail,1.37,Medium,18.3,13.9,28.2,70.4,>60 min,24.6,Low
+EMP0120,Eimsbüttel,53.57316504492068,9.98420298170524,False,40.0,13.3,Kellinghusenstraße,Rail,1.56,Medium,20.8,1.4,28.2,60.4,>60 min,46.4,Medium
+EMP0121,Eimsbüttel,53.60280415012247,9.961345685507718,True,53.0,10.9,Kellinghusenstraße,Rail,2.35,Poor,26.7,14.9,28.2,79.8,>60 min,25.8,Low
+EMP0122,Hamburg-Innenstadt,53.55544884271463,9.980929835550299,False,3.0,15.2,Jungfernstieg,Rail,0.86,Good,11.5,11.6,36.7,69.8,>60 min,30.7,Low
+EMP0123,Norderstedt,53.6919042771395,10.01179919580995,False,55.0,2.4,Norderstedt Mitte,Rail,0.62,Good,8.3,1.4,6.4,26.1,≤30 min,64.5,Medium
+EMP0124,Alsterdorf/Ohlsdorf,53.619650802095,10.001237547996812,False,88.0,8.0,Ohlsdorf,Rail,1.58,Medium,21.1,9.8,15.5,56.4,46–60 min,59.1,Medium
+EMP0125,Norderstedt,53.681890416470054,10.003582441521866,True,41.0,2.9,Ochsenzoll,Rail,0.69,Good,9.2,0.5,8.6,28.3,≤30 min,49.2,Medium
+EMP0126,Eppendorf/Winterhude,53.59002676637303,10.001970333000154,True,55.0,11.1,Kellinghusenstraße,Rail,1.14,Medium,15.2,11.6,28.2,65.0,>60 min,36.1,Low
+EMP0127,Alsterdorf/Ohlsdorf,53.61599477473016,10.017555820886502,True,70.0,8.1,Ohlsdorf,Rail,1.75,Medium,23.3,12.0,15.5,60.8,>60 min,41.0,Medium
+EMP0128,Norderstedt,53.696638993481784,10.004878322997458,True,47.0,3.0,Norderstedt Mitte,Rail,0.42,Good,5.6,9.0,6.4,31.0,31–45 min,49.4,Medium
+EMP0129,Norderstedt,53.7054080612169,10.020974051450464,False,38.0,2.7,Norderstedt Mitte,Rail,1.09,Medium,14.5,12.9,6.4,43.8,31–45 min,48.1,Medium
+EMP0130,Eimsbüttel,53.58204645226236,9.97517507758021,False,4.0,12.5,Kellinghusenstraße,Rail,0.88,Good,11.7,1.5,28.2,51.4,46–60 min,40.8,Medium
+EMP0131,Norderstedt,53.704183260181075,10.025463017565635,True,63.0,2.4,Norderstedt Mitte,Rail,1.2,Medium,16.0,4.1,6.4,36.5,31–45 min,50.1,Medium
+EMP0132,Ahrensburg,53.66731627717769,10.243094134071256,True,48.0,13.1,Ahrensburg,Rail,0.84,Good,11.2,6.2,30.3,57.7,46–60 min,40.4,Medium
+EMP0133,Eimsbüttel,53.587578154084106,9.977234287120856,False,30.0,11.9,Kellinghusenstraße,Rail,0.53,Good,7.1,0.6,28.2,45.9,46–60 min,51.7,Medium
+EMP0134,Alsterdorf/Ohlsdorf,53.63128936947624,9.99319201572026,True,53.0,7.1,Ohlsdorf,Rail,1.39,Medium,18.5,6.7,15.5,50.7,46–60 min,41.6,Medium
+EMP0135,Eimsbüttel,53.568898504803485,9.960420934513715,False,38.0,14.3,Kellinghusenstraße,Rail,2.62,Poor,26.7,4.0,28.2,68.9,>60 min,41.1,Medium
+EMP0136,Norderstedt,53.68862304344285,10.002429947436767,True,39.0,2.9,Ochsenzoll,Rail,0.94,Good,12.5,5.9,8.6,37.0,31–45 min,43.0,Medium
+EMP0137,Pinneberg,53.6759578433632,9.797292258611273,False,62.0,16.5,Pinneberg,Rail,1.49,Medium,19.9,6.4,40.2,76.5,>60 min,45.1,Medium
+EMP0138,Eppendorf/Winterhude,53.59108656013305,9.992285507808033,True,23.0,11.2,Kellinghusenstraße,Rail,0.63,Good,8.4,13.2,28.2,59.8,46–60 min,30.0,Low
+EMP0139,Quickborn,53.750138213920664,9.907538421580503,False,71.0,11.6,Quickborn (AKN),Rail,1.56,Medium,20.8,4.1,25.5,60.4,>60 min,54.3,Medium
+EMP0140,Norderstedt,53.69307464288108,10.02992174880204,True,22.0,1.3,Norderstedt Mitte,Rail,1.33,Medium,17.7,13.4,6.4,47.5,46–60 min,29.8,Low
+EMP0141,Eppendorf/Winterhude,53.60755045576271,9.996302802035796,False,37.0,9.4,Kellinghusenstraße,Rail,2.38,Poor,26.7,6.4,28.2,71.3,>60 min,35.3,Low
+EMP0142,Eppendorf/Winterhude,53.594314858168055,10.002137923171901,True,88.0,10.7,Kellinghusenstraße,Rail,1.36,Medium,18.1,4.9,28.2,61.2,>60 min,48.2,Medium
+EMP0143,Ahrensburg,53.67678228823323,10.235477306700759,True,73.0,12.5,Ahrensburg,Rail,0.33,Good,4.4,7.5,30.3,52.2,46–60 min,51.0,Medium
+EMP0144,Eimsbüttel,53.5942471802167,9.964357132879568,False,52.0,11.6,Kellinghusenstraße,Rail,1.59,Medium,21.2,6.3,28.2,65.7,>60 min,45.2,Medium
+EMP0145,Eppendorf/Winterhude,53.58938229522556,9.99806016680436,True,31.0,11.3,Kellinghusenstraße,Rail,0.88,Good,11.7,3.9,28.2,53.8,46–60 min,36.4,Low
+EMP0146,Langenhorn,53.65138877904075,9.985883240659732,True,39.0,5.6,Langenhorn Nord,Rail,1.33,Medium,17.7,7.5,12.0,47.2,46–60 min,38.5,Low
+EMP0147,Alsterdorf/Ohlsdorf,53.61051435791972,10.023653075355472,True,51.0,8.6,Ohlsdorf,Rail,2.42,Poor,26.7,2.3,15.5,54.5,46–60 min,39.8,Low
+EMP0148,Eppendorf/Winterhude,53.59752333950644,10.014473939976032,True,51.0,10.1,Kellinghusenstraße,Rail,2.24,Poor,26.7,5.3,28.2,70.2,>60 min,30.7,Low
+EMP0149,Eppendorf/Winterhude,53.577342409278195,10.001096200819092,True,48.0,12.5,Kellinghusenstraße,Rail,1.51,Medium,20.1,8.5,28.2,66.8,>60 min,34.0,Low
+EMP0150,Norderstedt,53.70387470902651,10.016995468860356,False,49.0,2.8,Norderstedt Mitte,Rail,0.81,Good,10.8,6.2,6.4,33.4,31–45 min,58.2,Medium
+EMP0151,Henstedt-Ulzburg / Kaltenkirchen,53.804612286823826,9.953491354908143,True,46.0,14.5,Kaltenkirchen (AKN),Rail,3.81,Poor,26.7,12.4,42.8,91.9,>60 min,18.7,Low
+EMP0152,Ahrensburg,53.685678126607336,10.236921232575844,False,21.0,12.5,Ahrensburg,Rail,1.28,Medium,17.1,3.9,30.3,61.3,>60 min,39.5,Low
+EMP0153,Norderstedt,53.67355739695099,10.020502894648837,False,40.0,2.3,Ochsenzoll,Rail,2.04,Poor,26.7,14.5,8.6,59.8,46–60 min,38.0,Low
+EMP0154,Eimsbüttel,53.57073434224896,9.972259686384172,True,68.0,13.8,Kellinghusenstraße,Rail,2.02,Poor,26.7,11.8,28.2,76.7,>60 min,34.6,Low
+EMP0155,Norderstedt,53.68063531848766,10.013216097327952,False,23.0,2.3,Ochsenzoll,Rail,1.34,Medium,17.9,14.5,8.6,51.0,46–60 min,38.6,Low
+EMP0156,Hamburg-Innenstadt,53.54283770533636,10.00256393959568,False,46.0,16.2,Jungfernstieg,Rail,1.27,Medium,16.9,12.6,36.7,76.2,>60 min,40.2,Medium
+EMP0157,Langenhorn,53.66327665901109,9.986307667089939,False,34.0,4.8,Langenhorn Nord,Rail,0.29,Good,3.9,2.1,12.0,28.0,≤30 min,58.8,Medium
+EMP0158,Hamburg-Innenstadt,53.5493077337455,10.005703062582594,True,52.0,15.5,Jungfernstieg,Rail,0.92,Good,12.3,7.9,36.7,66.9,>60 min,37.5,Low
+EMP0159,Hamburg-Innenstadt,53.54856622431052,9.996593591569571,True,42.0,15.7,Jungfernstieg,Rail,0.52,Good,6.9,2.5,36.7,56.1,46–60 min,41.7,Medium
+EMP0160,Quickborn,53.7345081512862,9.905643016844289,True,80.0,10.7,Quickborn (AKN),Rail,0.29,Good,3.9,12.3,25.5,51.7,46–60 min,52.0,Medium
+EMP0161,Norderstedt,53.6995338824062,10.014458412569331,False,60.0,2.6,Norderstedt Mitte,Rail,0.32,Good,4.3,8.8,6.4,29.5,≤30 min,63.9,Medium
+EMP0162,Ahrensburg,53.66411463958057,10.208494056241472,False,24.0,10.9,Ahrensburg,Rail,2.23,Poor,26.7,4.0,30.3,71.0,>60 min,32.8,Low
+EMP0163,Langenhorn,53.66786849640899,9.98522885736385,False,63.0,4.6,Langenhorn Nord,Rail,0.57,Good,7.6,13.9,12.0,43.5,31–45 min,57.3,Medium
+EMP0164,Norderstedt,53.70412665970385,9.974615871747853,True,35.0,5.1,Norderstedt Mitte,Rail,2.51,Poor,26.7,1.7,6.4,44.8,31–45 min,38.5,Low
+EMP0165,Eimsbüttel,53.58245037937656,9.946365365925946,False,38.0,13.3,Kellinghusenstraße,Rail,2.62,Poor,26.7,8.5,28.2,73.4,>60 min,37.3,Low
+EMP0166,Alsterdorf/Ohlsdorf,53.62056533442752,10.01651768600941,True,56.0,7.6,Ohlsdorf,Rail,1.24,Medium,16.5,10.8,15.5,52.8,46–60 min,41.6,Medium
+EMP0167,Henstedt-Ulzburg / Kaltenkirchen,53.81296418000809,9.969775293372669,False,40.0,14.9,Kaltenkirchen (AKN),Rail,2.9,Poor,26.7,0.9,42.8,80.4,>60 min,34.7,Low
+EMP0168,Quickborn,53.756450733027314,9.8975757121986,True,68.0,12.5,Quickborn (AKN),Rail,2.39,Poor,26.7,9.0,25.5,71.2,>60 min,37.1,Low
+EMP0169,Langenhorn,53.65992905828948,9.97427897958121,False,35.0,5.6,Langenhorn Nord,Rail,0.61,Good,8.1,12.2,12.0,42.3,31–45 min,50.5,Medium
+EMP0170,Pinneberg,53.65952916781665,9.80980540988614,False,38.0,15.9,Pinneberg,Rail,0.97,Good,12.9,1.0,40.2,64.1,>60 min,45.5,Medium
+EMP0171,Langenhorn,53.653264724196426,9.976559698684275,True,37.0,5.9,Langenhorn Nord,Rail,1.15,Medium,15.3,7.7,12.0,45.0,31–45 min,39.6,Low
+EMP0172,Eppendorf/Winterhude,53.582677373294224,10.02042920312403,True,39.0,11.7,Kellinghusenstraße,Rail,2.37,Poor,26.7,3.9,28.2,68.8,>60 min,29.3,Low
+EMP0173,Langenhorn,53.648355282123994,9.981380801468237,False,72.0,6.1,Langenhorn Nord,Rail,1.64,Medium,21.9,9.9,12.0,53.8,46–60 min,54.5,Medium
+EMP0174,Ahrensburg,53.66531202686769,10.241880361768812,True,63.0,13.1,Ahrensburg,Rail,1.02,Medium,13.6,1.8,30.3,55.7,46–60 min,46.2,Medium
+EMP0175,Norderstedt,53.69679319618348,10.027268743984987,False,84.0,1.7,Norderstedt Mitte,Rail,1.07,Medium,14.3,14.1,6.4,44.8,31–45 min,60.4,Medium
+EMP0176,Norderstedt,53.700842951284976,10.012410271161935,False,95.0,2.8,Norderstedt Mitte,Rail,0.38,Good,5.1,13.4,6.4,34.9,31–45 min,71.1,High
+EMP0177,Eppendorf/Winterhude,53.59351142058553,9.987976560193092,False,29.0,11.0,Kellinghusenstraße,Rail,0.72,Good,9.6,2.8,28.2,50.6,46–60 min,47.6,Medium
+EMP0178,Pinneberg,53.6549446472257,9.795002725483057,True,51.0,17.0,Pinneberg,Rail,0.85,Good,11.3,4.8,40.2,66.3,>60 min,38.8,Low
+EMP0179,Ahrensburg,53.6832018456402,10.2374438926381,True,26.0,12.5,Ahrensburg,Rail,1.0,Good,13.3,8.8,30.3,62.4,>60 min,30.2,Low
+EMP0180,Quickborn,53.74349412672301,9.895552583477984,True,34.0,11.8,Quickborn (AKN),Rail,1.22,Medium,16.3,10.8,25.5,62.6,>60 min,32.0,Low
+EMP0181,Ahrensburg,53.672603516925776,10.235241679286592,False,37.0,12.5,Ahrensburg,Rail,0.24,Good,3.2,6.6,30.3,50.1,46–60 min,51.5,Medium
+EMP0182,Ahrensburg,53.66767083855335,10.230378079060026,True,29.0,12.3,Ahrensburg,Rail,0.88,Good,11.7,2.3,30.3,54.3,46–60 min,36.2,Low
+EMP0183,Eppendorf/Winterhude,53.5984842792083,10.007243577571874,True,29.0,10.1,Kellinghusenstraße,Rail,1.92,Medium,25.6,1.6,28.2,65.4,>60 min,27.3,Low
+EMP0184,Langenhorn,53.66267973587486,9.981746118741853,True,47.0,5.0,Langenhorn Nord,Rail,0.05,Good,0.7,15.0,12.0,37.7,31–45 min,46.6,Medium
+EMP0185,Quickborn,53.72161872740585,9.906372042508524,False,26.0,10.0,Quickborn (AKN),Rail,1.62,Medium,21.6,6.8,25.5,63.9,>60 min,37.3,Low
+EMP0186,Hamburg-Innenstadt,53.550420197440154,9.992638180693774,True,67.0,15.6,Jungfernstieg,Rail,0.27,Good,3.6,13.1,36.7,63.4,>60 min,44.4,Medium
+EMP0187,Alsterdorf/Ohlsdorf,53.617620358120746,10.014231220184062,False,32.0,8.0,Ohlsdorf,Rail,1.55,Medium,20.7,7.2,15.5,53.4,46–60 min,44.3,Medium
+EMP0188,Norderstedt,53.68850305213512,10.0172681419969,False,100.0,2.0,Norderstedt Mitte,Rail,1.08,Medium,14.4,13.8,6.4,44.6,31–45 min,65.6,Medium
+EMP0189,Quickborn,53.737998433928375,9.899202877713307,False,41.0,11.3,Quickborn (AKN),Rail,0.69,Good,9.2,1.3,25.5,46.0,46–60 min,54.4,Medium
+EMP0190,Langenhorn,53.64625177514743,9.970984123673787,False,51.0,6.7,Langenhorn Nord,Rail,2.01,Poor,26.7,1.7,12.0,50.4,46–60 min,50.9,Medium
+EMP0191,Ahrensburg,53.68756186100012,10.248846792154024,False,24.0,13.3,Ahrensburg,Rail,1.65,Medium,22.0,13.9,30.3,76.2,>60 min,31.3,Low
+EMP0192,Langenhorn,53.673279499850594,9.977276631277954,False,84.0,4.8,Langenhorn Nord,Rail,1.17,Medium,15.6,14.2,12.0,51.8,46–60 min,58.4,Medium
+EMP0193,Norderstedt,53.69497482665697,9.996931579074031,True,72.0,3.4,Norderstedt Mitte,Rail,0.97,Good,12.9,4.7,6.4,34.0,31–45 min,55.2,Medium
+EMP0194,Henstedt-Ulzburg / Kaltenkirchen,53.81363454337839,9.96943812709383,False,56.0,15.0,Kaltenkirchen (AKN),Rail,2.83,Poor,26.7,5.3,42.8,84.8,>60 min,36.7,Low
+EMP0195,Norderstedt,53.673400780342,10.015733698060327,False,23.0,2.5,Ochsenzoll,Rail,1.78,Medium,23.7,6.8,8.6,49.1,46–60 min,40.0,Low
+EMP0196,Norderstedt,53.685936523397345,9.995792847427433,False,54.0,3.4,Ochsenzoll,Rail,0.45,Good,6.0,6.2,8.6,30.8,31–45 min,61.9,Medium
+EMP0197,Eimsbüttel,53.57566221079848,9.965894817154636,False,28.0,13.4,Kellinghusenstraße,Rail,1.81,Medium,24.1,2.9,28.2,65.2,>60 min,39.7,Low
+EMP0198,Henstedt-Ulzburg / Kaltenkirchen,53.799278669785735,9.972355830924284,False,79.0,13.5,Kaltenkirchen (AKN),Rail,4.43,Poor,26.7,13.5,42.8,93.0,>60 min,37.0,Low
+EMP0199,Langenhorn,53.66794396482631,9.985143864517063,False,66.0,4.6,Langenhorn Nord,Rail,0.58,Good,7.7,3.8,12.0,33.5,31–45 min,64.7,Medium
+EMP0200,Langenhorn,53.68077296530748,9.987719814837615,True,52.0,4.0,Ochsenzoll,Rail,0.39,Good,5.2,10.6,8.6,34.4,31–45 min,49.4,Medium
+EMP0201,Quickborn,53.72433385280571,9.895157309019092,True,1.0,10.8,Quickborn (AKN),Rail,1.6,Medium,21.3,1.0,25.5,57.8,46–60 min,24.4,Low
+EMP0202,Pinneberg,53.65422536595914,9.799410401549961,True,30.0,16.7,Pinneberg,Rail,0.96,Good,12.8,0.6,40.2,63.6,>60 min,34.0,Low
+EMP0203,Eppendorf/Winterhude,53.5953544836831,9.994973802405294,True,64.0,10.7,Kellinghusenstraße,Rail,1.11,Medium,14.8,9.8,28.2,62.8,>60 min,39.9,Low
+EMP0204,Norderstedt,53.71361116148499,10.006272098412754,True,74.0,4.0,Norderstedt Mitte,Rail,1.82,Medium,24.3,5.1,6.4,45.8,46–60 min,48.6,Medium
+EMP0205,Norderstedt,53.6852762568746,10.019805556094198,True,72.0,1.8,Norderstedt Mitte,Rail,1.48,Medium,19.7,9.8,6.4,45.9,46–60 min,46.2,Medium
+EMP0206,Langenhorn,53.66329036122307,9.996192745106743,True,18.0,4.2,Langenhorn Nord,Rail,0.94,Good,12.5,1.4,12.0,35.9,31–45 min,38.4,Low
+EMP0207,Norderstedt,53.71571298850813,10.029043700546005,False,56.0,3.5,Norderstedt Mitte,Rail,2.34,Poor,26.7,14.2,6.4,57.3,46–60 min,45.4,Medium
+EMP0208,Hamburg-Innenstadt,53.534582408518204,10.006848078715059,True,70.0,17.1,Jungfernstieg,Rail,2.22,Poor,26.7,11.2,36.7,84.6,>60 min,32.7,Low
+EMP0209,Norderstedt,53.68468930793154,10.0100026581837,False,17.0,2.4,Ochsenzoll,Rail,1.15,Medium,15.3,13.1,8.6,47.0,46–60 min,39.5,Low
+EMP0210,Eppendorf/Winterhude,53.5887639339354,10.001527201630262,False,50.0,11.3,Kellinghusenstraße,Rail,1.09,Medium,14.5,2.0,28.2,54.7,46–60 min,51.5,Medium
+EMP0211,Hamburg-Innenstadt,53.54589411587144,10.001368228717842,True,55.0,15.9,Jungfernstieg,Rail,0.94,Good,12.5,4.8,36.7,64.0,>60 min,40.6,Medium
+EMP0212,Eimsbüttel,53.58672601287754,9.964811779492994,True,44.0,12.3,Kellinghusenstraße,Rail,1.35,Medium,18.0,5.5,28.2,61.7,>60 min,35.9,Low
+EMP0213,Langenhorn,53.66321659719821,9.982707641879117,True,13.0,5.0,Langenhorn Nord,Rail,0.05,Good,0.7,8.1,12.0,30.8,31–45 min,40.9,Medium
+EMP0214,Quickborn,53.71835037940358,9.917437531318763,False,43.0,9.2,Quickborn (AKN),Rail,2.05,Poor,26.7,4.5,25.5,66.7,>60 min,39.9,Low
+EMP0215,Hamburg-Innenstadt,53.55625410402901,9.993107173539741,True,43.0,14.9,Jungfernstieg,Rail,0.38,Good,5.1,0.9,36.7,52.7,46–60 min,43.6,Medium
+EMP0216,Quickborn,53.73032461112644,9.901907130636264,False,47.0,10.7,Quickborn (AKN),Rail,0.8,Good,10.7,5.5,25.5,51.7,46–60 min,52.1,Medium
+EMP0217,Norderstedt,53.71024447216941,10.006955269341642,False,39.0,3.7,Norderstedt Mitte,Rail,1.44,Medium,19.2,3.8,6.4,39.4,31–45 min,52.0,Medium
+EMP0218,Norderstedt,53.69122412463563,10.017439103777338,False,41.0,2.0,Norderstedt Mitte,Rail,0.81,Good,10.8,5.8,6.4,33.0,31–45 min,55.4,Medium
+EMP0219,Ahrensburg,53.66783384716898,10.237829932912,True,49.0,12.7,Ahrensburg,Rail,0.71,Good,9.5,3.0,30.3,52.8,46–60 min,43.5,Medium
+EMP0220,Alsterdorf/Ohlsdorf,53.62041131610805,10.015402099768684,True,59.0,7.6,Ohlsdorf,Rail,1.25,Medium,16.7,3.9,15.5,46.1,46–60 min,46.8,Medium
+EMP0221,Langenhorn,53.668429264823374,9.988100792422022,True,44.0,4.4,Langenhorn Nord,Rail,0.72,Good,9.6,9.4,12.0,41.0,31–45 min,43.1,Medium
+EMP0222,Eppendorf/Winterhude,53.597480993639365,9.994251585371023,True,42.0,10.5,Kellinghusenstraße,Rail,1.29,Medium,17.2,5.8,28.2,61.2,>60 min,34.2,Low
+EMP0223,Hamburg-Innenstadt,53.53424402682615,10.0012624816363,True,52.0,17.2,Jungfernstieg,Rail,2.13,Poor,26.7,5.2,36.7,78.6,>60 min,31.3,Low
+EMP0224,Pinneberg,53.66798034439928,9.799888426034583,False,12.0,16.4,Pinneberg,Rail,0.65,Good,8.7,8.0,40.2,66.9,>60 min,36.2,Low
+EMP0225,Langenhorn,53.65045691948326,9.969051869130887,False,60.0,6.5,Langenhorn Nord,Rail,1.64,Medium,21.9,11.6,12.0,55.5,46–60 min,50.1,Medium
+EMP0226,Ahrensburg,53.67655276111588,10.252223047911862,False,50.0,13.6,Ahrensburg,Rail,0.99,Good,13.2,5.7,30.3,59.2,46–60 min,50.4,Medium
+EMP0227,Norderstedt,53.683262655646004,10.006092552562432,False,51.0,2.7,Ochsenzoll,Rail,0.86,Good,11.5,8.8,8.6,38.9,31–45 min,55.2,Medium
+EMP0228,Eimsbüttel,53.583063221475435,9.947049046568148,True,69.0,13.3,Kellinghusenstraße,Rail,2.57,Poor,26.7,14.5,28.2,79.4,>60 min,32.7,Low
+EMP0229,Eimsbüttel,53.570534010956926,9.953149562904137,False,11.0,14.3,Kellinghusenstraße,Rail,2.82,Poor,26.7,7.8,28.2,72.7,>60 min,30.5,Low
+EMP0230,Norderstedt,53.68467365349739,10.000889548393218,False,11.0,3.0,Ochsenzoll,Rail,0.58,Good,7.7,13.6,8.6,39.9,31–45 min,42.8,Medium
+EMP0231,Norderstedt,53.70463820136482,10.011621733186576,False,55.0,3.1,Norderstedt Mitte,Rail,0.79,Good,10.5,11.9,6.4,38.8,31–45 min,56.8,Medium
+EMP0232,Alsterdorf/Ohlsdorf,53.61741644521677,10.009261494944537,False,50.0,8.1,Ohlsdorf,Rail,1.61,Medium,21.5,0.9,15.5,47.9,46–60 min,53.3,Medium
+EMP0233,Pinneberg,53.65646023198607,9.792731680323593,True,53.0,17.1,Pinneberg,Rail,0.72,Good,9.6,6.4,40.2,66.2,>60 min,39.6,Low
+EMP0234,Eimsbüttel,53.59311178849021,9.969797019654825,True,41.0,11.6,Kellinghusenstraße,Rail,1.22,Medium,16.3,10.5,28.2,65.0,>60 min,32.3,Low
+EMP0235,Ahrensburg,53.6697934757843,10.241198753611927,True,63.0,12.9,Ahrensburg,Rail,0.54,Good,7.2,14.8,30.3,62.3,>60 min,41.7,Medium
+EMP0236,Quickborn,53.73642107673971,9.912360478706443,True,69.0,10.5,Quickborn (AKN),Rail,0.21,Good,2.8,6.9,25.5,45.2,46–60 min,52.7,Medium
+EMP0237,Eppendorf/Winterhude,53.59568913447679,10.002098284573286,False,60.0,10.5,Kellinghusenstraße,Rail,1.46,Medium,19.5,1.4,28.2,59.1,46–60 min,51.0,Medium
+EMP0238,Quickborn,53.729903340658716,9.915361346680022,True,45.0,9.9,Quickborn (AKN),Rail,0.8,Good,10.7,8.4,25.5,54.6,46–60 min,38.9,Low
+EMP0239,Norderstedt,53.702211362933994,9.990020466582227,False,8.0,4.1,Norderstedt Mitte,Rail,1.48,Medium,19.7,1.9,6.4,38.0,31–45 min,44.0,Medium
+EMP0240,Norderstedt,53.69216547652835,10.007455617477357,False,65.0,2.7,Norderstedt Mitte,Rail,0.64,Good,8.5,11.3,6.4,36.2,31–45 min,61.1,Medium
+EMP0241,Henstedt-Ulzburg / Kaltenkirchen,53.80588361677784,9.943197899355106,True,74.0,14.9,Kaltenkirchen (AKN),Rail,3.83,Poor,26.7,7.6,42.8,87.1,>60 min,30.5,Low
+EMP0242,Quickborn,53.749726426398034,9.909560599267978,True,63.0,11.5,Quickborn (AKN),Rail,1.52,Medium,20.3,10.9,25.5,66.7,>60 min,37.7,Low
+EMP0243,Langenhorn,53.65039413947488,9.981353670277757,False,32.0,5.9,Langenhorn Nord,Rail,1.41,Medium,18.8,13.0,12.0,53.8,46–60 min,42.4,Medium
+EMP0244,Eppendorf/Winterhude,53.568872196690705,10.008455322747896,False,63.0,13.3,Jungfernstieg,Rail,2.05,Poor,26.7,9.4,36.7,82.8,>60 min,38.7,Low
+EMP0245,Eimsbüttel,53.594709369950124,9.97547634392721,True,67.0,11.2,Kellinghusenstraße,Rail,1.06,Medium,14.1,9.2,28.2,61.5,>60 min,42.1,Medium
+EMP0246,Henstedt-Ulzburg / Kaltenkirchen,53.83549327952607,9.967027750482524,True,81.0,17.4,Kaltenkirchen (AKN),Rail,0.51,Good,6.8,11.3,42.8,70.9,>60 min,45.1,Medium
+EMP0247,Eimsbüttel,53.57454730734551,9.958596389226031,False,32.0,13.7,Kellinghusenstraße,Rail,2.26,Poor,26.7,12.6,28.2,77.5,>60 min,33.2,Low
+EMP0248,Alsterdorf/Ohlsdorf,53.5956316195938,10.016851611125459,True,45.0,10.3,Kellinghusenstraße,Rail,2.28,Poor,26.7,13.0,28.2,77.9,>60 min,24.1,Low
+EMP0249,Alsterdorf/Ohlsdorf,53.61189516023804,10.006720823626758,False,65.0,8.7,Ohlsdorf,Rail,2.25,Poor,26.7,0.5,15.5,52.7,46–60 min,55.2,Medium
+EMP0250,Alsterdorf/Ohlsdorf,53.6121377705016,10.011986073485566,True,51.0,8.6,Ohlsdorf,Rail,2.17,Poor,26.7,8.3,15.5,60.5,>60 min,35.9,Low
+EMP0251,Hamburg-Innenstadt,53.54920076158977,10.003561363169608,True,28.0,15.5,Jungfernstieg,Rail,0.8,Good,10.7,3.2,36.7,60.6,>60 min,34.4,Low
+EMP0252,Henstedt-Ulzburg / Kaltenkirchen,53.79886611958079,9.959422286540105,True,58.0,13.8,Kaltenkirchen (AKN),Rail,4.42,Poor,26.7,12.9,42.8,92.4,>60 min,21.4,Low
+EMP0253,Eppendorf/Winterhude,53.59879561142477,10.006056786392424,False,62.0,10.1,Kellinghusenstraße,Rail,1.88,Medium,25.1,9.7,28.2,73.0,>60 min,42.2,Medium
+EMP0254,Langenhorn,53.66604507375286,9.988174013686924,False,52.0,4.5,Langenhorn Nord,Rail,0.53,Good,7.1,6.3,12.0,35.4,31–45 min,59.2,Medium
+EMP0255,Langenhorn,53.645855943801806,9.971852081828693,True,54.0,6.7,Langenhorn Nord,Rail,2.03,Poor,26.7,2.8,12.0,51.5,46–60 min,41.1,Medium
+EMP0256,Quickborn,53.74309196731695,9.918938941282175,False,45.0,10.5,Quickborn (AKN),Rail,1.01,Medium,13.5,5.1,25.5,54.1,46–60 min,49.7,Medium
+EMP0257,Henstedt-Ulzburg / Kaltenkirchen,53.830526849819464,9.971985663453715,True,80.0,16.8,Kaltenkirchen (AKN),Rail,1.14,Medium,15.2,10.6,42.8,78.6,>60 min,39.4,Low
+EMP0258,Norderstedt,53.699219603324366,10.012119258873728,True,32.0,2.7,Norderstedt Mitte,Rail,0.2,Good,2.7,3.1,6.4,22.2,≤30 min,50.3,Medium
+EMP0259,Norderstedt,53.69412674837931,10.003476765419725,True,38.0,3.0,Norderstedt Mitte,Rail,0.63,Good,8.4,1.4,6.4,26.2,≤30 min,49.8,Medium
+EMP0260,Eimsbüttel,53.577179967855926,9.955007939814244,True,50.0,13.6,Kellinghusenstraße,Rail,2.29,Poor,26.7,13.3,28.2,78.2,>60 min,28.0,Low
+EMP0261,Norderstedt,53.703652567669685,10.005723374230971,False,68.0,3.3,Norderstedt Mitte,Rail,0.77,Good,10.3,11.5,6.4,38.2,31–45 min,61.2,Medium
+EMP0262,Henstedt-Ulzburg / Kaltenkirchen,53.79269328394493,9.97042594463292,True,20.0,12.8,Kaltenkirchen (AKN),Rail,5.14,Poor,26.7,3.0,42.8,82.5,>60 min,15.6,Low
+EMP0263,Langenhorn,53.662443907029775,9.971843748325986,False,24.0,5.6,Langenhorn Nord,Rail,0.67,Good,8.9,4.4,12.0,35.3,31–45 min,51.7,Medium
+EMP0264,Norderstedt,53.69359536050537,10.0154751224862,True,9.0,2.2,Norderstedt Mitte,Rail,0.52,Good,6.9,14.6,6.4,37.9,31–45 min,32.8,Low
+EMP0265,Ahrensburg,53.69267825012956,10.225382444711217,False,51.0,11.8,Ahrensburg,Rail,2.21,Poor,26.7,10.6,30.3,77.6,>60 min,37.3,Low
+EMP0266,Norderstedt,53.69575827266195,10.009059314155612,True,28.0,2.7,Norderstedt Mitte,Rail,0.24,Good,3.2,9.2,6.4,28.8,≤30 min,44.8,Medium
+EMP0267,Langenhorn,53.677478876111195,9.982496477545741,False,42.0,4.4,Ochsenzoll,Rail,0.87,Good,11.6,4.6,8.6,34.8,31–45 min,56.5,Medium
+EMP0268,Norderstedt,53.68646259302218,10.03555130145059,True,63.0,0.8,Norderstedt Mitte,Rail,2.02,Poor,26.7,4.5,6.4,47.6,46–60 min,41.6,Medium
+EMP0269,Norderstedt,53.70337259166803,9.997326843444798,True,37.0,3.8,Norderstedt Mitte,Rail,1.12,Medium,14.9,0.6,6.4,31.9,31–45 min,46.4,Medium
+EMP0270,Norderstedt,53.70069400263791,10.025820145664902,False,55.0,2.1,Norderstedt Mitte,Rail,1.03,Medium,13.7,10.9,6.4,41.0,31–45 min,54.5,Medium
+EMP0271,Norderstedt,53.68880952752135,10.012598424139874,False,44.0,2.3,Norderstedt Mitte,Rail,0.97,Good,12.9,0.6,6.4,29.9,≤30 min,58.6,Medium
+EMP0272,Norderstedt,53.69927396114637,10.01521171918016,False,63.0,2.5,Norderstedt Mitte,Rail,0.33,Good,4.4,0.1,6.4,20.9,≤30 min,70.3,High
+EMP0273,Norderstedt,53.709625188368314,10.012283479133883,True,60.0,3.4,Norderstedt Mitte,Rail,1.35,Medium,18.0,10.9,6.4,45.3,46–60 min,44.3,Medium
+EMP0274,Eimsbüttel,53.575362082957135,9.968047268181952,False,36.0,13.4,Kellinghusenstraße,Rail,1.74,Medium,23.2,14.2,28.2,75.6,>60 min,35.4,Low
+EMP0275,Hamburg-Innenstadt,53.5341803735083,9.992163148956381,False,47.0,17.3,Jungfernstieg,Rail,2.07,Poor,26.7,11.3,36.7,84.7,>60 min,35.9,Low
+EMP0276,Alsterdorf/Ohlsdorf,53.614824371735224,10.026540501814575,False,71.0,8.1,Ohlsdorf,Rail,2.03,Poor,26.7,7.1,15.5,59.3,46–60 min,52.2,Medium
+EMP0277,Langenhorn,53.65177576905208,9.976835288557753,True,58.0,6.0,Langenhorn Nord,Rail,1.3,Medium,17.3,7.3,12.0,46.6,46–60 min,44.9,Medium
+EMP0278,Eppendorf/Winterhude,53.58957659061336,10.009322345721792,False,22.0,11.1,Kellinghusenstraße,Rail,1.61,Medium,21.5,6.5,28.2,66.2,>60 min,35.4,Low
+EMP0279,Henstedt-Ulzburg / Kaltenkirchen,53.80918412230315,9.95855632879787,False,63.0,14.8,Kaltenkirchen (AKN),Rail,3.28,Poor,26.7,4.9,42.8,84.4,>60 min,38.9,Low
+EMP0280,Henstedt-Ulzburg / Kaltenkirchen,53.79294347783985,9.964397481535986,False,28.0,13.0,Kaltenkirchen (AKN),Rail,5.08,Poor,26.7,7.8,42.8,87.3,>60 min,25.1,Low
+EMP0281,Norderstedt,53.68134341660679,10.000380374477098,True,78.0,3.1,Ochsenzoll,Rail,0.49,Good,6.5,6.5,8.6,31.6,31–45 min,58.3,Medium
+EMP0282,Norderstedt,53.702320668355256,10.015650237203475,True,70.0,2.7,Norderstedt Mitte,Rail,0.61,Good,8.1,9.0,6.4,33.5,31–45 min,54.4,Medium
+EMP0283,Langenhorn,53.655572813038305,9.995851259569266,False,56.0,4.8,Langenhorn Nord,Rail,1.24,Medium,16.5,13.5,12.0,52.0,46–60 min,49.8,Medium
+EMP0284,Langenhorn,53.635152556581794,9.980626438201792,False,53.0,7.2,Ohlsdorf,Rail,2.26,Poor,26.7,14.9,15.5,67.1,>60 min,41.0,Medium
+EMP0285,Eimsbüttel,53.586448440366084,9.96163114301296,False,46.0,12.5,Kellinghusenstraße,Rail,1.56,Medium,20.8,1.2,28.2,60.2,>60 min,47.7,Medium
+EMP0286,Alsterdorf/Ohlsdorf,53.61772369755275,10.000853830369321,True,64.0,8.2,Ohlsdorf,Rail,1.78,Medium,23.7,5.8,15.5,55.0,46–60 min,43.0,Medium
+EMP0287,Norderstedt,53.69036125175963,10.008807073464478,True,43.0,2.5,Norderstedt Mitte,Rail,0.81,Good,10.8,2.7,6.4,29.9,≤30 min,48.5,Medium
+EMP0288,Alsterdorf/Ohlsdorf,53.601831697889416,9.996072057402785,False,55.0,10.0,Kellinghusenstraße,Rail,1.78,Medium,23.7,5.3,28.2,67.2,>60 min,43.8,Medium
+EMP0289,Eppendorf/Winterhude,53.601358078963145,9.988871220132811,True,67.0,10.2,Kellinghusenstraße,Rail,1.59,Medium,21.2,4.3,28.2,63.7,>60 min,39.9,Low
+EMP0290,Norderstedt,53.7009935062256,10.013367860461091,True,39.0,2.7,Norderstedt Mitte,Rail,0.42,Good,5.6,2.6,6.4,24.6,≤30 min,50.9,Medium
+EMP0291,Henstedt-Ulzburg / Kaltenkirchen,53.83382602282684,9.978190131977414,False,38.0,17.0,Kaltenkirchen (AKN),Rail,1.22,Medium,16.3,11.5,42.8,80.6,>60 min,35.6,Low
+EMP0292,Norderstedt,53.70170188598725,10.039192108612296,False,26.0,1.8,Norderstedt Mitte,Rail,1.91,Medium,25.5,7.4,6.4,49.3,46–60 min,40.2,Medium
+EMP0293,Ahrensburg,53.67807703141262,10.231934149149291,False,29.0,12.2,Ahrensburg,Rail,0.58,Good,7.7,13.8,30.3,61.8,>60 min,41.3,Medium
+EMP0294,Norderstedt,53.695830720698915,10.025453001566456,True,13.0,1.8,Norderstedt Mitte,Rail,0.96,Good,12.8,0.5,6.4,29.7,≤30 min,39.0,Low
+EMP0295,Henstedt-Ulzburg / Kaltenkirchen,53.81816775867201,9.967437524804016,True,65.0,15.5,Kaltenkirchen (AKN),Rail,2.31,Poor,26.7,1.0,42.8,80.5,>60 min,32.6,Low
+EMP0296,Ahrensburg,53.68045085201248,10.236287523532535,False,86.0,12.5,Ahrensburg,Rail,0.7,Good,9.3,6.0,30.3,55.6,46–60 min,62.7,Medium
+EMP0297,Pinneberg,53.67511725008565,9.800425944517261,True,79.0,16.3,Pinneberg,Rail,1.42,Medium,18.9,1.2,40.2,70.3,>60 min,44.0,Medium
+EMP0298,Quickborn,53.730886770813626,9.909819164836799,True,17.0,10.3,Quickborn (AKN),Rail,0.58,Good,7.7,3.9,25.5,47.1,46–60 min,35.7,Low
+EMP0299,Quickborn,53.73174592527056,9.910303957256122,True,64.0,10.3,Quickborn (AKN),Rail,0.49,Good,6.5,14.8,25.5,56.8,46–60 min,43.5,Medium
+EMP0300,Hamburg-Innenstadt,53.54630896829088,9.989616668371733,False,78.0,16.0,Jungfernstieg,Rail,0.76,Good,10.1,3.1,36.7,59.9,46–60 min,60.3,Medium
+EMP0301,Quickborn,53.74400801721179,9.895218903402013,False,41.0,11.9,Quickborn (AKN),Rail,1.27,Medium,16.9,3.0,25.5,55.4,46–60 min,48.8,Medium
+EMP0302,Norderstedt,53.71248374440297,9.99566374797478,False,52.0,4.4,Norderstedt Mitte,Rail,1.95,Medium,26.0,8.6,6.4,51.0,46–60 min,49.0,Medium
+EMP0303,Eppendorf/Winterhude,53.58841159506851,10.004532448832812,False,10.0,11.3,Kellinghusenstraße,Rail,1.28,Medium,17.1,7.5,28.2,62.8,>60 min,34.2,Low
+EMP0304,Eppendorf/Winterhude,53.588752262722075,9.995232999099143,True,55.0,11.4,Kellinghusenstraße,Rail,0.68,Good,9.1,8.7,28.2,56.0,46–60 min,42.2,Medium
+EMP0305,Henstedt-Ulzburg / Kaltenkirchen,53.8131407722387,9.959039111003438,True,29.0,15.2,Kaltenkirchen (AKN),Rail,2.84,Poor,26.7,5.7,42.8,85.2,>60 min,18.5,Low
+EMP0306,Eppendorf/Winterhude,53.59054238499987,9.99808505626723,True,54.0,11.1,Kellinghusenstraße,Rail,0.92,Good,12.3,12.4,28.2,62.9,>60 min,37.2,Low
+EMP0307,Alsterdorf/Ohlsdorf,53.6245205365314,10.019949322529158,True,19.0,7.1,Ohlsdorf,Rail,0.87,Good,11.6,2.1,15.5,39.2,31–45 min,38.9,Low
+EMP0308,Eimsbüttel,53.55608222709381,9.965403639430264,True,61.0,15.5,Jungfernstieg,Rail,1.87,Medium,24.9,6.4,36.7,78.0,>60 min,33.0,Low
+EMP0309,Langenhorn,53.65253294953083,9.97483945063359,True,70.0,6.1,Langenhorn Nord,Rail,1.26,Medium,16.8,10.3,12.0,49.1,46–60 min,47.0,Medium
+EMP0310,Norderstedt,53.689675836660385,10.023362929556491,True,34.0,1.6,Norderstedt Mitte,Rail,1.19,Medium,15.9,13.0,6.4,45.3,46–60 min,35.0,Low
+EMP0311,Eppendorf/Winterhude,53.56979643987614,10.013791855029815,False,27.0,13.2,Jungfernstieg,Rail,2.33,Poor,26.7,5.5,36.7,78.9,>60 min,30.4,Low
+EMP0312,Alsterdorf/Ohlsdorf,53.605363615556314,10.016945566553229,False,7.0,9.2,Kellinghusenstraße,Rail,2.91,Poor,26.7,8.5,28.2,73.4,>60 min,24.7,Low
+EMP0313,Langenhorn,53.65164843884154,9.991136635113442,True,45.0,5.3,Langenhorn Nord,Rail,1.41,Medium,18.8,1.0,12.0,41.8,31–45 min,43.6,Medium
+EMP0314,Alsterdorf/Ohlsdorf,53.61298895345482,10.02441959996814,True,38.0,8.3,Ohlsdorf,Rail,2.17,Poor,26.7,2.6,15.5,54.8,46–60 min,35.4,Low
+EMP0315,Alsterdorf/Ohlsdorf,53.626129658916604,10.023300993164046,False,19.0,6.9,Ohlsdorf,Rail,0.85,Good,11.3,1.0,15.5,37.8,31–45 min,49.7,Medium
+EMP0316,Alsterdorf/Ohlsdorf,53.612549393488095,10.018140991771126,False,59.0,8.4,Ohlsdorf,Rail,2.13,Poor,26.7,10.9,15.5,63.1,>60 min,46.4,Medium
+EMP0317,Alsterdorf/Ohlsdorf,53.60469186279729,10.01798347047075,False,41.0,9.3,Kellinghusenstraße,Rail,2.9,Poor,26.7,4.3,28.2,69.2,>60 min,37.8,Low
+EMP0318,Hamburg-Innenstadt,53.550530454587864,9.998896605733465,True,28.0,15.5,Jungfernstieg,Rail,0.46,Good,6.1,10.9,36.7,63.7,>60 min,32.4,Low
+EMP0319,Langenhorn,53.671291736214414,9.97042662325453,False,39.0,5.3,Langenhorn Nord,Rail,1.18,Medium,15.7,1.0,12.0,38.7,31–45 min,53.8,Medium
+EMP0320,Pinneberg,53.652840411838845,9.803107231568594,True,71.0,16.5,Pinneberg,Rail,1.18,Medium,15.7,12.9,40.2,78.8,>60 min,36.3,Low
+EMP0321,Ahrensburg,53.66509425116079,10.224241860288734,True,62.0,11.9,Ahrensburg,Rail,1.35,Medium,18.0,12.5,30.3,70.8,>60 min,35.1,Low
+EMP0322,Eppendorf/Winterhude,53.59858548959274,9.99005400544875,True,47.0,10.5,Kellinghusenstraße,Rail,1.3,Medium,17.3,1.3,28.2,56.8,46–60 min,38.6,Low
+EMP0323,Alsterdorf/Ohlsdorf,53.6127846388427,10.025035650678081,True,62.0,8.3,Ohlsdorf,Rail,2.21,Poor,26.7,0.4,15.5,52.6,46–60 min,44.0,Medium
+EMP0324,Eppendorf/Winterhude,53.5994748469071,10.00640220162694,True,27.0,10.0,Kellinghusenstraße,Rail,1.95,Medium,26.0,0.8,28.2,65.0,>60 min,26.8,Low
+EMP0325,Henstedt-Ulzburg / Kaltenkirchen,53.80986353208205,9.979873982896859,True,51.0,14.4,Kaltenkirchen (AKN),Rail,3.42,Poor,26.7,12.8,42.8,92.3,>60 min,19.8,Low
+EMP0326,Hamburg-Innenstadt,53.5581166364809,9.990983256163128,False,53.0,14.7,Jungfernstieg,Rail,0.61,Good,8.1,3.5,36.7,58.3,46–60 min,52.8,Medium
+EMP0327,Quickborn,53.7257492188596,9.897677511587233,True,41.0,10.8,Quickborn (AKN),Rail,1.38,Medium,18.4,8.2,25.5,62.1,>60 min,33.6,Low
+EMP0328,Eppendorf/Winterhude,53.59287915349212,9.995595628029296,True,59.0,10.9,Kellinghusenstraße,Rail,0.93,Good,12.4,6.4,28.2,57.0,46–60 min,42.4,Medium
+EMP0329,Eimsbüttel,53.57649309985637,9.964620312972405,True,34.0,13.4,Kellinghusenstraße,Rail,1.81,Medium,24.1,11.9,28.2,74.2,>60 min,25.7,Low
+EMP0330,Langenhorn,53.64864109075896,9.9821898871634,True,60.0,6.0,Langenhorn Nord,Rail,1.61,Medium,21.5,7.3,12.0,50.8,46–60 min,42.8,Medium
+EMP0331,Hamburg-Innenstadt,53.53546522052131,10.005036804787567,True,61.0,17.0,Jungfernstieg,Rail,2.08,Poor,26.7,7.5,36.7,80.9,>60 min,32.3,Low
+EMP0332,Langenhorn,53.667657490352745,9.977787295749966,True,0.0,5.0,Langenhorn Nord,Rail,0.57,Good,7.6,14.8,12.0,44.4,31–45 min,28.1,Low
+EMP0333,Hamburg-Innenstadt,53.54759047617782,9.99722034471803,True,74.0,15.8,Jungfernstieg,Rail,0.64,Good,8.5,2.3,36.7,57.5,46–60 min,50.5,Medium
+EMP0334,Henstedt-Ulzburg / Kaltenkirchen,53.79977719718353,9.955113728505653,False,0.0,14.0,Kaltenkirchen (AKN),Rail,4.34,Poor,26.7,12.5,42.8,92.0,>60 min,14.4,Low
+EMP0335,Norderstedt,53.69653821063076,10.01560317278044,False,38.0,2.3,Norderstedt Mitte,Rail,0.32,Good,4.3,0.8,6.4,21.5,≤30 min,62.3,Medium
+EMP0336,Eimsbüttel,53.589880188573495,9.963631085501856,True,71.0,12.1,Kellinghusenstraße,Rail,1.46,Medium,19.5,7.2,28.2,64.9,>60 min,41.8,Medium
+EMP0337,Norderstedt,53.67469262154628,10.003601866617156,False,44.0,3.1,Ochsenzoll,Rail,1.08,Medium,14.4,13.3,8.6,46.3,46–60 min,48.6,Medium
+EMP0338,Hamburg-Innenstadt,53.536133613100965,9.991341706378252,False,21.0,17.1,Jungfernstieg,Rail,1.86,Medium,24.8,10.0,36.7,81.5,>60 min,30.0,Low
+EMP0339,Norderstedt,53.68827113558105,10.009258242534848,False,28.0,2.5,Norderstedt Mitte,Rail,1.03,Medium,13.7,10.3,6.4,40.4,31–45 min,47.1,Medium
+EMP0340,Ahrensburg,53.6888117886672,10.23509844870663,False,71.0,12.4,Ahrensburg,Rail,1.63,Medium,21.7,3.9,30.3,65.9,>60 min,51.4,Medium
+EMP0341,Norderstedt,53.70032586982919,10.028813412422677,False,12.0,1.9,Norderstedt Mitte,Rail,1.21,Medium,16.1,6.3,6.4,38.8,31–45 min,42.9,Medium
+EMP0342,Pinneberg,53.67027317240461,9.795115539976921,False,73.0,16.7,Pinneberg,Rail,0.86,Good,11.5,5.5,40.2,67.2,>60 min,54.6,Medium
+EMP0343,Quickborn,53.72469839080874,9.906761038898226,False,49.0,10.2,Quickborn (AKN),Rail,1.28,Medium,17.1,7.8,25.5,60.4,>60 min,46.6,Medium
+EMP0344,Eimsbüttel,53.56740464124729,9.942625490423898,True,26.0,14.9,Kellinghusenstraße,Rail,3.58,Poor,26.7,6.9,28.2,71.8,>60 min,26.0,Low
+EMP0345,Quickborn,53.740578137167226,9.900257926480206,True,38.0,11.4,Quickborn (AKN),Rail,0.77,Good,10.3,4.9,25.5,50.7,46–60 min,40.6,Medium
+EMP0346,Quickborn,53.73668274330935,9.906569265755437,True,30.0,10.8,Quickborn (AKN),Rail,0.18,Good,2.4,4.6,25.5,42.5,31–45 min,43.0,Medium
+EMP0347,Pinneberg,53.66808738818864,9.789241473238233,True,67.0,17.1,Pinneberg,Rail,0.76,Good,10.1,3.8,40.2,64.1,>60 min,45.1,Medium
+EMP0348,Langenhorn,53.65892329009072,9.995217075933779,True,65.0,4.6,Langenhorn Nord,Rail,0.99,Good,13.2,5.5,12.0,40.7,31–45 min,49.7,Medium
+EMP0349,Eimsbüttel,53.58138143726455,9.961950622246038,True,16.0,13.0,Kellinghusenstraße,Rail,1.67,Medium,22.3,2.2,28.2,62.7,>60 min,27.4,Low
+EMP0350,Norderstedt,53.69908119084905,10.023984442493184,False,42.0,2.1,Norderstedt Mitte,Rail,0.87,Good,11.6,13.1,6.4,41.1,31–45 min,50.6,Medium
+EMP0351,Eimsbüttel,53.58637767389085,9.964217046340503,False,33.0,12.4,Kellinghusenstraße,Rail,1.39,Medium,18.5,9.0,28.2,65.7,>60 min,40.1,Medium
+EMP0352,Norderstedt,53.70557008281944,10.011472278364216,False,76.0,3.2,Norderstedt Mitte,Rail,0.9,Good,12.0,2.0,6.4,30.4,31–45 min,68.6,Medium
+EMP0353,Eimsbüttel,53.562401280056086,9.962712035522875,True,23.0,14.9,Jungfernstieg,Rail,2.27,Poor,26.7,10.4,36.7,83.8,>60 min,17.4,Low
+EMP0354,Eimsbüttel,53.55612731444659,9.963637962516215,True,82.0,15.5,Jungfernstieg,Rail,1.98,Medium,26.4,12.7,36.7,85.8,>60 min,34.2,Low
+EMP0355,Eppendorf/Winterhude,53.60301745397652,10.015187950030498,False,49.0,9.5,Kellinghusenstraße,Rail,2.64,Poor,26.7,3.6,28.2,68.5,>60 min,40.8,Medium
+EMP0356,Eppendorf/Winterhude,53.604877250932624,9.974803892732487,False,27.0,10.2,Kellinghusenstraße,Rail,2.08,Poor,26.7,2.3,28.2,67.2,>60 min,35.6,Low
+EMP0357,Quickborn,53.72589376980487,9.889184542555613,False,36.0,11.3,Quickborn (AKN),Rail,1.74,Medium,23.2,0.1,25.5,58.8,46–60 min,44.6,Medium
+EMP0358,Quickborn,53.71750164593455,9.903768291689438,False,34.0,10.0,Quickborn (AKN),Rail,2.1,Poor,26.7,0.7,25.5,62.9,>60 min,40.3,Medium
+EMP0359,Eppendorf/Winterhude,53.59399034821008,9.998145278819376,False,25.0,10.8,Kellinghusenstraße,Rail,1.14,Medium,15.2,11.4,28.2,64.8,>60 min,37.0,Low
+EMP0360,Eimsbüttel,53.58790838226351,9.970501044247639,True,52.0,12.1,Kellinghusenstraße,Rail,0.98,Good,13.1,14.8,28.2,66.1,>60 min,35.3,Low
+EMP0361,Ahrensburg,53.69217594522434,10.242530871980275,True,25.0,12.9,Ahrensburg,Rail,2.02,Poor,26.7,0.7,30.3,67.7,>60 min,26.8,Low
+EMP0362,Norderstedt,53.70266297572101,10.007257540871196,True,6.0,3.2,Norderstedt Mitte,Rail,0.63,Good,8.4,11.2,6.4,36.0,31–45 min,34.0,Low
+EMP0363,Norderstedt,53.69378283303414,10.021290436932418,False,42.0,1.9,Norderstedt Mitte,Rail,0.79,Good,10.5,1.1,6.4,28.0,≤30 min,58.9,Medium
+EMP0364,Norderstedt,53.68856869378415,10.021401954031528,False,14.0,1.7,Norderstedt Mitte,Rail,1.2,Medium,16.0,8.9,6.4,41.3,31–45 min,41.7,Medium
+EMP0365,Hamburg-Innenstadt,53.55121451291671,9.995540578312717,True,35.0,15.4,Jungfernstieg,Rail,0.24,Good,3.2,11.3,36.7,61.2,>60 min,36.0,Low
+EMP0366,Alsterdorf/Ohlsdorf,53.61200735296115,10.021626575724868,False,32.0,8.5,Ohlsdorf,Rail,2.23,Poor,26.7,5.4,15.5,57.6,46–60 min,42.0,Medium
+EMP0367,Quickborn,53.72594932094271,9.911926452634322,True,33.0,9.9,Quickborn (AKN),Rail,1.14,Medium,15.2,0.2,25.5,50.9,46–60 min,37.7,Low
+EMP0368,Hamburg-Innenstadt,53.57158755650863,9.988085169732171,True,90.0,13.4,Kellinghusenstraße,Rail,1.75,Medium,23.3,8.9,28.2,70.4,>60 min,45.0,Medium
+EMP0369,Alsterdorf/Ohlsdorf,53.63285168402072,10.018978168390001,True,51.0,6.2,Ohlsdorf,Rail,0.34,Good,4.5,14.9,15.5,44.9,31–45 min,44.1,Medium
+EMP0370,Ahrensburg,53.685560486835556,10.238906131225788,True,55.0,12.6,Ahrensburg,Rail,1.27,Medium,16.9,3.9,30.3,61.1,>60 min,39.9,Low
+EMP0371,Quickborn,53.726891496021906,9.909213398467545,False,14.0,10.1,Quickborn (AKN),Rail,1.02,Medium,13.6,2.8,25.5,51.9,46–60 min,41.5,Medium
+EMP0372,Langenhorn,53.66935019324298,9.996129535721897,True,37.0,3.9,Langenhorn Nord,Rail,1.17,Medium,15.6,1.9,12.0,39.5,31–45 min,41.5,Medium
+EMP0373,Alsterdorf/Ohlsdorf,53.62139626409498,9.9874912787146,False,54.0,8.2,Ohlsdorf,Rail,2.1,Poor,26.7,8.3,15.5,60.5,>60 min,46.4,Medium
+EMP0374,Langenhorn,53.66522545624204,9.967223158298404,False,30.0,5.8,Langenhorn Nord,Rail,1.0,Good,13.3,8.9,12.0,44.2,31–45 min,47.9,Medium
+EMP0375,Norderstedt,53.70999665267043,9.999229295736257,True,68.0,4.1,Norderstedt Mitte,Rail,1.59,Medium,21.2,11.9,6.4,49.5,46–60 min,44.5,Medium
+EMP0376,Norderstedt,53.703853711428614,10.007467393524312,True,26.0,3.2,Norderstedt Mitte,Rail,0.75,Good,10.0,11.3,6.4,37.7,31–45 min,38.9,Low
+EMP0377,Ahrensburg,53.681600142363045,10.23525391830234,False,44.0,12.4,Ahrensburg,Rail,0.84,Good,11.2,13.4,30.3,64.9,>60 min,43.9,Medium
+EMP0378,Eppendorf/Winterhude,53.59936906283372,9.982926743522269,True,38.0,10.6,Kellinghusenstraße,Rail,1.36,Medium,18.1,12.1,28.2,68.4,>60 min,28.4,Low
+EMP0379,Alsterdorf/Ohlsdorf,53.618407914080024,10.002148419676892,False,53.0,8.1,Ohlsdorf,Rail,1.67,Medium,22.3,3.7,15.5,51.5,46–60 min,51.9,Medium
+EMP0380,Hamburg-Innenstadt,53.533263888702855,9.985091583214764,True,37.0,17.5,Jungfernstieg,Rail,2.24,Poor,26.7,8.3,36.7,81.7,>60 min,25.0,Low
+EMP0381,Eimsbüttel,53.579436210774105,9.988174240920758,False,45.0,12.5,Kellinghusenstraße,Rail,0.88,Good,11.7,4.5,28.2,54.4,46–60 min,51.1,Medium
+EMP0382,Ahrensburg,53.668638080411505,10.255817419477472,False,45.0,13.9,Ahrensburg,Rail,1.34,Medium,17.9,4.9,30.3,63.1,>60 min,46.6,Medium
+EMP0383,Quickborn,53.7233015904236,9.905082505823154,True,35.0,10.2,Quickborn (AKN),Rail,1.45,Medium,19.3,14.0,25.5,68.8,>60 min,26.9,Low
+EMP0384,Eppendorf/Winterhude,53.60981816619301,9.994364167096931,True,60.0,9.2,Kellinghusenstraße,Rail,2.59,Poor,26.7,10.2,28.2,75.1,>60 min,29.5,Low
+EMP0385,Alsterdorf/Ohlsdorf,53.63228995340886,10.000507960028118,False,55.0,6.8,Ohlsdorf,Rail,0.91,Good,12.1,14.6,15.5,52.2,46–60 min,51.0,Medium
+EMP0386,Pinneberg,53.67619220600295,9.777018695867746,True,48.0,17.8,Pinneberg,Rail,1.97,Medium,26.3,6.3,40.2,82.8,>60 min,27.8,Low
+EMP0387,Hamburg-Innenstadt,53.55365213416856,9.992531198135914,True,41.0,15.2,Jungfernstieg,Rail,0.1,Good,1.3,8.1,36.7,56.1,46–60 min,41.0,Medium
+EMP0388,Pinneberg,53.676106251209525,9.786121480167559,True,66.0,17.2,Pinneberg,Rail,1.64,Medium,21.9,7.3,40.2,79.4,>60 min,34.9,Low
+EMP0389,Norderstedt,53.69762053180602,10.01025149468338,True,45.0,2.7,Norderstedt Mitte,Rail,0.06,Good,0.8,1.6,6.4,18.8,≤30 min,55.7,Medium
+EMP0390,Henstedt-Ulzburg / Kaltenkirchen,53.81202797276898,9.948997941509566,False,44.0,15.4,Kaltenkirchen (AKN),Rail,3.06,Poor,26.7,3.6,42.8,83.1,>60 min,34.5,Low
+EMP0391,Eimsbüttel,53.56766528629538,9.955980255416897,False,52.0,14.5,Kellinghusenstraße,Rail,2.91,Poor,26.7,7.9,28.2,72.8,>60 min,42.9,Medium
+EMP0392,Norderstedt,53.70146991304499,10.01258627095303,True,84.0,2.8,Norderstedt Mitte,Rail,0.45,Good,6.0,1.0,6.4,23.4,≤30 min,65.2,Medium
+EMP0393,Eimsbüttel,53.57920385928425,9.967262095977839,False,23.0,13.0,Kellinghusenstraße,Rail,1.49,Medium,19.9,14.0,28.2,72.1,>60 min,33.4,Low
+EMP0394,Hamburg-Innenstadt,53.538073478831656,9.99787471958742,True,65.0,16.8,Jungfernstieg,Rail,1.67,Medium,22.3,1.9,36.7,70.9,>60 min,39.9,Low
+EMP0395,Norderstedt,53.69698802888183,9.99789511015843,True,12.0,3.4,Norderstedt Mitte,Rail,0.87,Good,11.6,3.0,6.4,31.0,31–45 min,39.2,Low
+EMP0396,Eppendorf/Winterhude,53.59220270436143,10.006546857301355,False,54.0,10.8,Kellinghusenstraße,Rail,1.51,Medium,20.1,11.5,28.2,69.8,>60 min,42.5,Medium
+EMP0397,Henstedt-Ulzburg / Kaltenkirchen,53.827975611666446,9.956997883033981,False,82.0,16.8,Kaltenkirchen (AKN),Rail,1.22,Medium,16.3,1.5,42.8,70.6,>60 min,55.1,Medium
+EMP0398,Langenhorn,53.66974213328513,9.987728579146074,True,60.0,4.3,Langenhorn Nord,Rail,0.83,Good,11.1,13.5,12.0,46.6,46–60 min,44.1,Medium
+EMP0399,Eppendorf/Winterhude,53.59311445439092,9.997893613233817,True,53.0,10.9,Kellinghusenstraße,Rail,1.06,Medium,14.1,10.9,28.2,63.2,>60 min,36.5,Low
+EMP0400,Eppendorf/Winterhude,53.595487873098016,9.98423612500922,False,39.0,10.9,Kellinghusenstraße,Rail,0.92,Good,12.3,1.0,28.2,51.5,46–60 min,49.9,Medium
